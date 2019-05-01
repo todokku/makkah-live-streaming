@@ -1,0 +1,9 @@
+{
+  "name": "Makkah Live Streaming",
+  "description": "Makkah Live Streaming",
+  "repository": "https://github.com/muhammadhanif/makkah-live-streaming",
+  "logo": "https://rawcdn.githack.com/muhammadhanif/muhammadhanif.github.io/0fab8132bf1f5d68c5351c362f18883839e4ad48/assets/images/hanifmu-ico.png",
+  "website": "https://makkah.hanifmu.com/",
+  "keywords": ["makkah live streaming", "islam"],
+  "stack": "container"
+}

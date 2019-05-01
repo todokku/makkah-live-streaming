@@ -23,3 +23,9 @@ Destroy the container:
 ```bash
 docker-compose down --rmi all
 ```
+
+### Deploy to heroku
+
+Click the following button to deploy the repository to heroku.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
